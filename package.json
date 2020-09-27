@@ -6,7 +6,7 @@
     "prestart": "ngtw build",
     "start": "ng serve & ngtw watch",
     "build": "ngtw build && ng build",
-    "build_vercel": "npm i ng-tailwindcss -g && ngtw build && ng build"
+    "build_vercel": "npm i ng-tailwindcss -g && ngtw build && ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
